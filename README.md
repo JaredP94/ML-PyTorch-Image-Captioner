@@ -1,1 +1,2 @@
-# ML-PyTorch-Image-Captioner
+# Developing an Image Captioner with Deep Learning
+This project demonstrates how to make use of pre-trained deep learning models to produce encoded outputs which feed into an RNN with LSTM layers to produce captions which describe the input image. This is implemented in Python3 using PyTorch, and supports GPU-based training. The project is trained and tested on the COCO dataset, but the project supports the ability to train a classifier on any image dataset.
